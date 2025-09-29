@@ -13,9 +13,7 @@ A Flutter-based iOS shopping application inspired by the REWE grocery shopping a
 
 ## Screenshots
 
-<img src="screenshots/home_screen.png" width="300" alt="Home Screen">
-<img src="screenshots/product_list.png" width="300" alt="Product List">
-<img src="screenshots/cart_screen.png" width="300" alt="Shopping Cart">
+*Screenshots will be added soon*
 
 ## Tech Stack
 
@@ -65,22 +63,6 @@ A Flutter-based iOS shopping application inspired by the REWE grocery shopping a
    ```bash
    flutter run -d "iPhone Simulator"
    ```
-
-## Project Structure
-
-```
-lib/
-├── src/
-│   ├── core/           # Core utilities and services
-│   ├── models/         # Data models and DTOs
-│   ├── providers/      # Riverpod state providers
-│   ├── screens/        # UI screens and pages
-│   └── widgets/        # Reusable UI components
-├── assets/
-│   ├── images/         # App images and illustrations
-│   └── icons/          # Custom icons
-└── main.dart           # App entry point
-```
 
 ## Dependencies
 
