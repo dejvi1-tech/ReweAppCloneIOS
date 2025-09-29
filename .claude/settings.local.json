@@ -9,7 +9,8 @@
       "Bash(xcrun simctl shutdown:*)",
       "Bash(xcrun simctl boot:*)",
       "Bash(printf:*)",
-      "Bash(do touch \"assets/images/$img.jpg\")"
+      "Bash(do touch \"assets/images/$img.jpg\")",
+      "Bash(xcrun simctl io:*)"
     ],
     "deny": [],
     "ask": []

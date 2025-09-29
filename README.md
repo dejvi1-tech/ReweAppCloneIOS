@@ -14,9 +14,9 @@ A Flutter-based iOS shopping application inspired by the REWE grocery shopping a
 ## Screenshots
 
 <div align="center">
-  <img src="screenshots/home_screen.png" width="250" alt="Home Screen"/>
-  <img src="screenshots/product_list.png" width="250" alt="Product List"/>
-  <img src="screenshots/app_overview.png" width="250" alt="App Overview"/>
+  <img src="screenshots/rewe_home.png" width="250" alt="REWE Home"/>
+  <img src="screenshots/product_detail.png" width="250" alt="Product Detail"/>
+  <img src="screenshots/profile_screen.png" width="250" alt="Profile Screen"/>
 </div>
 
 ## Tech Stack
