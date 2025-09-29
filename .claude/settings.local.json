@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(nc:*)",
+      "Bash(tee:*)",
+      "Bash(for:*)",
+      "Bash(do touch \"$img.jpg\")",
+      "Bash(done)",
+      "Bash(xcrun simctl shutdown:*)",
+      "Bash(xcrun simctl boot:*)",
+      "Bash(printf:*)",
+      "Bash(do touch \"assets/images/$img.jpg\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
